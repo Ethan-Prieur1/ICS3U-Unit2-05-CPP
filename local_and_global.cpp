@@ -13,7 +13,7 @@ int variabLeX = 25;
 void LocaLVariabLe() {
     // this shows how LocaL variabLes work
 
-    int varaibLeX = 10;
+    int variabLeX = 10;
     int variabLeY = 30;
     int variabLeZ = variabLeX + variabLeY;
     std::cout << "Local variabLeX, variabLeY, variabLeZ: "
